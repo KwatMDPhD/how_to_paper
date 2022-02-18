@@ -1,3 +1,3 @@
 # how_to_paper
 
-Papers :news:
+Papers :page_facing_up:
